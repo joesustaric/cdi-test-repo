@@ -1,2 +1,2 @@
 # cdi-test-repo
-testing stuff
+Main
